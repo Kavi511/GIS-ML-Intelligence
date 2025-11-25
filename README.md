@@ -1,4 +1,4 @@
-# Enhanced Solar Energy Intelligence Suite 
+# 🛰️🗺️Enhanced Solar Energy Intelligence Suite 
 
 This repository bundles multiple deep-learning and classical ML pipelines for **satellite-aware solar analytics**. It focuses on turning real-time weather feeds, NASA/NOAA irradiance data, and Google Earth Engine (GEE) imagery into accurate solar irradiance & energy predictions, plus cloud detection tooling to improve production estimates.
 
